@@ -4,7 +4,7 @@
 export IMAGE_NAME=netcoreapps-redisgeo
 export IMAGE_VERSION=latest
 
-export AWS_DEFAULT_REGION=ueu-central-1
+export AWS_DEFAULT_REGION=eu-central-1
 export AWS_ECS_CLUSTER_NAME=default
 export AWS_VIRTUAL_HOST=ecs1.1pdevelopment.com
 
